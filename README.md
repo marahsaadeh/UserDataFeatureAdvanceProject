@@ -26,6 +26,6 @@ The advanced "User Data" feature in the Java system is designed to enhance the u
 2. **Strategy Pattern**
 3. **Decorator Pattern**
 4. **Factory Pattern**
-5.بالاضافة الى  **Application of SOLID Principles**
+**In addition, the Application of SOLID Principles has been utilized.**
 
 *This feature is designed to enhance user privacy and provide effective data management in a secure, standards-compliant environment.*
