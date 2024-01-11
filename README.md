@@ -29,9 +29,9 @@ The advanced "User Data" feature in the Java system is meticulously crafted to e
 
 **For Premium Users:**
 - Export all data types, including IAM, Posts, Activities, and Payment Information.
-  
 
-  - **Deletion Options:**
+  
+- **Deletion Options:**
   The feature introduces two deletion methodologies, offering users tailored control over their data:
 
 1. **Hard Delete:**
