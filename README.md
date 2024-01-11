@@ -3,6 +3,7 @@
 All Class Diagrams  : https://www.figma.com/file/VU8NKNLFG8kMyehBwOmyJO/All-Digrams?type=whiteboard&node-id=0-1&t=buyHSrZNf7J4z42M-0
 
 **Advanced User Data Feature - Overview:**
+
 The advanced "User Data" feature in the Java system is designed to enhance the user experience in programs similar to social networking sites. It focuses on providing efficient and advanced capabilities for data management, forming an integral part of improving the core system. This empowers users to exercise complete and effective control over all their data within the program.
 
 **"data" File:**
