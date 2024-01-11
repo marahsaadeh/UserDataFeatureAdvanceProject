@@ -22,6 +22,7 @@ The advanced "User Data" feature in the Java system is designed to enhance the u
 - Export all data types, including IAM, Posts, Activities, and Payment Information.
 
 **Export and Deletion Management:**
+
 *Users can manage their data effectively with enhanced export and deletion options, tailoring the process to their preferences.*
 
 **Data Export Options:**
