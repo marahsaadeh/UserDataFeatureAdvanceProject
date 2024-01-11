@@ -25,10 +25,10 @@ The advanced "User Data" feature in the Java system is designed to enhance the u
 
 *Users can manage their data effectively with enhanced export and deletion options, tailoring the process to their preferences.*
 
--**Data Export Options:**
+- **Data Export Options:**
 Users now have the flexibility to choose how they want to download their data directly from the program. The export process allows users to either download individual PDF files containing their user data or opt for a compressed file that includes all PDF files.
 
--**Deletion Options:**
+- **Deletion Options:**
 Two types of deletion are available:
 
 1. **Hard Delete:**
